@@ -11,5 +11,7 @@ This is a small script written and compiled using AutoHotKey that hides the wind
 
 You can either **get the latest executable from [here][1]**, or you can run it as an AutoHotKey script by downloading the AutoHotKey utility from [here][2]
 
+[edd.stefancamilleri.com](http://edd.stefancamilleri.com)
+
 [1]:https://github.com/Stefan-Z-Camilleri/Windows-Cursor-Hider/blob/master/executable/Hide%20Mouse%20Cursor%20on%20Idle.exe
 [2]:http://www.autohotkey.com
