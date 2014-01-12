@@ -13,5 +13,5 @@ You can either **get the latest executable from [here][1]**, or you can run it a
 
 [edd.stefancamilleri.com](http://edd.stefancamilleri.com)
 
-[1]:https://github.com/Stefan-Z-Camilleri/Windows-Cursor-Hider/blob/master/executable/Hide%20Mouse%20Cursor%20on%20Idle.exe
+[1]:https://github.com/Stefan-Z-Camilleri/Windows-Cursor-Hider/blob/master/executable/Hide%20Mouse%20Cursor%20on%20Idle.exe?raw=true
 [2]:http://www.autohotkey.com
